@@ -230,3 +230,83 @@
 [2024-04-02 19:54:51,662] {logging_mixin.py:115} INFO - [2024-04-02 19:54:51,662] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
 [2024-04-02 19:54:51,662] {logging_mixin.py:115} INFO - [2024-04-02 19:54:51,662] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
 [2024-04-02 19:54:51,668] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.357 seconds
+[2024-04-02 19:55:29,883] {processor.py:153} INFO - Started process (PID=12656) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:55:29,883] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:55:29,884] {logging_mixin.py:115} INFO - [2024-04-02 19:55:29,884] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:55:29,902] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:55:30,256] {logging_mixin.py:115} INFO - [2024-04-02 19:55:30,256] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:55:30,263] {logging_mixin.py:115} INFO - [2024-04-02 19:55:30,263] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:55:30,263] {logging_mixin.py:115} INFO - [2024-04-02 19:55:30,263] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:55:30,269] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.386 seconds
+[2024-04-02 19:56:20,234] {processor.py:153} INFO - Started process (PID=12766) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:20,234] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:56:20,235] {logging_mixin.py:115} INFO - [2024-04-02 19:56:20,234] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:20,250] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:20,521] {logging_mixin.py:115} INFO - [2024-04-02 19:56:20,521] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:56:20,528] {logging_mixin.py:115} INFO - [2024-04-02 19:56:20,528] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:56:20,528] {logging_mixin.py:115} INFO - [2024-04-02 19:56:20,528] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:56:20,535] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.301 seconds
+[2024-04-02 19:56:57,296] {processor.py:153} INFO - Started process (PID=12803) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:57,296] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:56:57,296] {logging_mixin.py:115} INFO - [2024-04-02 19:56:57,296] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:57,312] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:56:57,571] {logging_mixin.py:115} INFO - [2024-04-02 19:56:57,571] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:56:57,578] {logging_mixin.py:115} INFO - [2024-04-02 19:56:57,578] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:56:57,578] {logging_mixin.py:115} INFO - [2024-04-02 19:56:57,578] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:56:57,584] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.288 seconds
+[2024-04-02 19:57:32,278] {processor.py:153} INFO - Started process (PID=12835) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:57:32,278] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:57:32,279] {logging_mixin.py:115} INFO - [2024-04-02 19:57:32,279] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:57:32,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:57:32,549] {logging_mixin.py:115} INFO - [2024-04-02 19:57:32,549] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:57:32,556] {logging_mixin.py:115} INFO - [2024-04-02 19:57:32,556] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:57:32,556] {logging_mixin.py:115} INFO - [2024-04-02 19:57:32,556] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:57:32,562] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.284 seconds
+[2024-04-02 19:58:21,599] {processor.py:153} INFO - Started process (PID=12880) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:58:21,599] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:58:21,599] {logging_mixin.py:115} INFO - [2024-04-02 19:58:21,599] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:58:21,614] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:58:21,875] {logging_mixin.py:115} INFO - [2024-04-02 19:58:21,874] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:58:21,885] {logging_mixin.py:115} INFO - [2024-04-02 19:58:21,885] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:58:21,885] {logging_mixin.py:115} INFO - [2024-04-02 19:58:21,885] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:58:21,891] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.292 seconds
+[2024-04-02 19:58:59,958] {processor.py:153} INFO - Started process (PID=12913) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:58:59,958] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:58:59,959] {logging_mixin.py:115} INFO - [2024-04-02 19:58:59,959] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:58:59,974] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:59:00,233] {logging_mixin.py:115} INFO - [2024-04-02 19:59:00,233] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:59:00,240] {logging_mixin.py:115} INFO - [2024-04-02 19:59:00,240] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:59:00,240] {logging_mixin.py:115} INFO - [2024-04-02 19:59:00,240] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:59:00,246] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.288 seconds
+[2024-04-02 19:59:38,754] {processor.py:153} INFO - Started process (PID=12943) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:59:38,754] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 19:59:38,754] {logging_mixin.py:115} INFO - [2024-04-02 19:59:38,754] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:59:38,770] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 19:59:39,030] {logging_mixin.py:115} INFO - [2024-04-02 19:59:39,030] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 19:59:39,037] {logging_mixin.py:115} INFO - [2024-04-02 19:59:39,037] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 19:59:39,037] {logging_mixin.py:115} INFO - [2024-04-02 19:59:39,037] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 19:59:39,043] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.289 seconds
+[2024-04-02 20:00:15,492] {processor.py:153} INFO - Started process (PID=12981) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:15,492] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 20:00:15,492] {logging_mixin.py:115} INFO - [2024-04-02 20:00:15,492] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:15,508] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:15,763] {logging_mixin.py:115} INFO - [2024-04-02 20:00:15,763] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 20:00:15,770] {logging_mixin.py:115} INFO - [2024-04-02 20:00:15,770] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 20:00:15,771] {logging_mixin.py:115} INFO - [2024-04-02 20:00:15,771] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 20:00:15,777] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.284 seconds
+[2024-04-02 20:00:49,653] {processor.py:153} INFO - Started process (PID=13012) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:49,653] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 20:00:49,653] {logging_mixin.py:115} INFO - [2024-04-02 20:00:49,653] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:49,669] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:00:49,927] {logging_mixin.py:115} INFO - [2024-04-02 20:00:49,926] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 20:00:49,933] {logging_mixin.py:115} INFO - [2024-04-02 20:00:49,933] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 20:00:49,934] {logging_mixin.py:115} INFO - [2024-04-02 20:00:49,933] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 20:00:49,939] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.287 seconds
+[2024-04-02 20:01:27,989] {processor.py:153} INFO - Started process (PID=13050) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:01:27,989] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-04-02 20:01:27,989] {logging_mixin.py:115} INFO - [2024-04-02 20:01:27,989] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:01:28,005] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-04-02 20:01:28,277] {logging_mixin.py:115} INFO - [2024-04-02 20:01:28,277] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-04-02 20:01:28,284] {logging_mixin.py:115} INFO - [2024-04-02 20:01:28,284] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-04-02 20:01:28,284] {logging_mixin.py:115} INFO - [2024-04-02 20:01:28,284] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-04-02 20:01:28,291] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.302 seconds
