@@ -1,0 +1,151 @@
+[2024-04-02 19:37:07,398] {processor.py:153} INFO - Started process (PID=11362) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:37:07,398] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:37:07,398] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,398] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:37:07,430] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:37:07,739] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,739] {manager.py:508} INFO - Created Permission View: can delete on DAG:TwitterDAG
+[2024-04-02 19:37:07,741] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,741] {manager.py:508} INFO - Created Permission View: can edit on DAG:TwitterDAG
+[2024-04-02 19:37:07,743] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,743] {manager.py:508} INFO - Created Permission View: can read on DAG:TwitterDAG
+[2024-04-02 19:37:07,743] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,743] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:37:07,746] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,746] {dag.py:2398} INFO - Creating ORM DAG for TwitterDAG
+[2024-04-02 19:37:07,751] {logging_mixin.py:115} INFO - [2024-04-02 19:37:07,751] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:37:07,755] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.358 seconds
+[2024-04-02 19:38:09,079] {processor.py:153} INFO - Started process (PID=11475) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:09,080] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:38:09,080] {logging_mixin.py:115} INFO - [2024-04-02 19:38:09,080] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:09,108] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:09,136] {logging_mixin.py:115} INFO - [2024-04-02 19:38:09,136] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:38:09,142] {logging_mixin.py:115} INFO - [2024-04-02 19:38:09,142] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:38:09,147] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:38:58,392] {processor.py:153} INFO - Started process (PID=11534) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:58,393] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:38:58,393] {logging_mixin.py:115} INFO - [2024-04-02 19:38:58,393] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:58,421] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:38:58,448] {logging_mixin.py:115} INFO - [2024-04-02 19:38:58,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:38:58,455] {logging_mixin.py:115} INFO - [2024-04-02 19:38:58,455] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:38:58,459] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.067 seconds
+[2024-04-02 19:39:46,945] {processor.py:153} INFO - Started process (PID=11575) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:39:46,945] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:39:46,945] {logging_mixin.py:115} INFO - [2024-04-02 19:39:46,945] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:39:46,972] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:39:47,001] {logging_mixin.py:115} INFO - [2024-04-02 19:39:47,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:39:47,008] {logging_mixin.py:115} INFO - [2024-04-02 19:39:47,008] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:39:47,013] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:40:37,100] {processor.py:153} INFO - Started process (PID=11625) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:40:37,100] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:40:37,100] {logging_mixin.py:115} INFO - [2024-04-02 19:40:37,100] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:40:37,128] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:40:37,156] {logging_mixin.py:115} INFO - [2024-04-02 19:40:37,156] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:40:37,163] {logging_mixin.py:115} INFO - [2024-04-02 19:40:37,163] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:40:37,168] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:41:31,438] {processor.py:153} INFO - Started process (PID=11672) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:41:31,438] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:41:31,438] {logging_mixin.py:115} INFO - [2024-04-02 19:41:31,438] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:41:31,467] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:41:31,495] {logging_mixin.py:115} INFO - [2024-04-02 19:41:31,495] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:41:31,501] {logging_mixin.py:115} INFO - [2024-04-02 19:41:31,501] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:41:31,506] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:42:24,956] {processor.py:153} INFO - Started process (PID=11723) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:42:24,956] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:42:24,956] {logging_mixin.py:115} INFO - [2024-04-02 19:42:24,956] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:42:24,985] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:42:25,014] {logging_mixin.py:115} INFO - [2024-04-02 19:42:25,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:42:25,021] {logging_mixin.py:115} INFO - [2024-04-02 19:42:25,020] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:42:25,025] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.070 seconds
+[2024-04-02 19:43:14,287] {processor.py:153} INFO - Started process (PID=11772) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:43:14,288] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:43:14,288] {logging_mixin.py:115} INFO - [2024-04-02 19:43:14,288] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:43:14,317] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:43:14,345] {logging_mixin.py:115} INFO - [2024-04-02 19:43:14,345] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:43:14,352] {logging_mixin.py:115} INFO - [2024-04-02 19:43:14,352] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-03-31T00:00:00+00:00, run_after=2024-04-01T00:00:00+00:00
+[2024-04-02 19:43:14,356] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.069 seconds
+[2024-04-02 19:44:12,602] {processor.py:153} INFO - Started process (PID=11836) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:44:12,603] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:44:12,604] {logging_mixin.py:115} INFO - [2024-04-02 19:44:12,604] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:44:12,631] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:44:12,659] {logging_mixin.py:115} INFO - [2024-04-02 19:44:12,659] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:44:12,666] {logging_mixin.py:115} INFO - [2024-04-02 19:44:12,666] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:44:12,670] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:45:05,424] {processor.py:153} INFO - Started process (PID=11902) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:05,424] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:45:05,425] {logging_mixin.py:115} INFO - [2024-04-02 19:45:05,425] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:05,453] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:05,481] {logging_mixin.py:115} INFO - [2024-04-02 19:45:05,481] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:45:05,488] {logging_mixin.py:115} INFO - [2024-04-02 19:45:05,488] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:45:05,493] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.070 seconds
+[2024-04-02 19:45:55,653] {processor.py:153} INFO - Started process (PID=11942) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:55,653] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:45:55,653] {logging_mixin.py:115} INFO - [2024-04-02 19:45:55,653] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:55,682] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:45:55,709] {logging_mixin.py:115} INFO - [2024-04-02 19:45:55,709] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:45:55,716] {logging_mixin.py:115} INFO - [2024-04-02 19:45:55,716] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:45:55,721] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:46:46,881] {processor.py:153} INFO - Started process (PID=12025) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:46:46,882] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:46:46,882] {logging_mixin.py:115} INFO - [2024-04-02 19:46:46,882] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:46:46,918] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:46:46,947] {logging_mixin.py:115} INFO - [2024-04-02 19:46:46,947] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:46:46,954] {logging_mixin.py:115} INFO - [2024-04-02 19:46:46,954] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:46:46,959] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.078 seconds
+[2024-04-02 19:47:41,355] {processor.py:153} INFO - Started process (PID=12106) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:47:41,355] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:47:41,355] {logging_mixin.py:115} INFO - [2024-04-02 19:47:41,355] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:47:41,384] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:47:41,413] {logging_mixin.py:115} INFO - [2024-04-02 19:47:41,413] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:47:41,420] {logging_mixin.py:115} INFO - [2024-04-02 19:47:41,420] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:47:41,424] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.070 seconds
+[2024-04-02 19:48:27,043] {processor.py:153} INFO - Started process (PID=12147) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:48:27,043] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:48:27,043] {logging_mixin.py:115} INFO - [2024-04-02 19:48:27,043] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:48:27,072] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:48:27,101] {logging_mixin.py:115} INFO - [2024-04-02 19:48:27,100] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:48:27,108] {logging_mixin.py:115} INFO - [2024-04-02 19:48:27,108] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:48:27,112] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.070 seconds
+[2024-04-02 19:49:16,427] {processor.py:153} INFO - Started process (PID=12202) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:49:16,427] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:49:16,427] {logging_mixin.py:115} INFO - [2024-04-02 19:49:16,427] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:49:16,455] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:49:16,483] {logging_mixin.py:115} INFO - [2024-04-02 19:49:16,483] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:49:16,490] {logging_mixin.py:115} INFO - [2024-04-02 19:49:16,490] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:49:16,495] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.068 seconds
+[2024-04-02 19:50:08,956] {processor.py:153} INFO - Started process (PID=12258) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:50:08,957] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:50:08,957] {logging_mixin.py:115} INFO - [2024-04-02 19:50:08,957] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:50:08,986] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:50:09,014] {logging_mixin.py:115} INFO - [2024-04-02 19:50:09,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:50:09,021] {logging_mixin.py:115} INFO - [2024-04-02 19:50:09,021] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:50:09,026] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.071 seconds
+[2024-04-02 19:51:01,991] {processor.py:153} INFO - Started process (PID=12307) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:01,991] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:51:01,992] {logging_mixin.py:115} INFO - [2024-04-02 19:51:01,992] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:02,022] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:02,051] {logging_mixin.py:115} INFO - [2024-04-02 19:51:02,051] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:51:02,059] {logging_mixin.py:115} INFO - [2024-04-02 19:51:02,059] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:51:02,064] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.073 seconds
+[2024-04-02 19:51:58,198] {processor.py:153} INFO - Started process (PID=12368) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:58,199] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:51:58,199] {logging_mixin.py:115} INFO - [2024-04-02 19:51:58,199] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:58,228] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:51:58,256] {logging_mixin.py:115} INFO - [2024-04-02 19:51:58,256] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:51:58,264] {logging_mixin.py:115} INFO - [2024-04-02 19:51:58,264] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:51:58,269] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.071 seconds
+[2024-04-02 19:52:51,492] {processor.py:153} INFO - Started process (PID=12413) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:52:51,492] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:52:51,493] {logging_mixin.py:115} INFO - [2024-04-02 19:52:51,493] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:52:51,524] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:52:51,556] {logging_mixin.py:115} INFO - [2024-04-02 19:52:51,556] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:52:51,564] {logging_mixin.py:115} INFO - [2024-04-02 19:52:51,564] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:52:51,569] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.078 seconds
+[2024-04-02 19:53:50,021] {processor.py:153} INFO - Started process (PID=12513) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:53:50,021] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:53:50,021] {logging_mixin.py:115} INFO - [2024-04-02 19:53:50,021] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:53:50,064] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:53:50,096] {logging_mixin.py:115} INFO - [2024-04-02 19:53:50,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:53:50,104] {logging_mixin.py:115} INFO - [2024-04-02 19:53:50,103] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:53:50,110] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.089 seconds
+[2024-04-02 19:54:44,352] {processor.py:153} INFO - Started process (PID=12609) to work on /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:54:44,353] {processor.py:641} INFO - Processing file /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-04-02 19:54:44,354] {logging_mixin.py:115} INFO - [2024-04-02 19:54:44,354] {dagbag.py:507} INFO - Filling up the DagBag from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:54:44,390] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py
+[2024-04-02 19:54:44,419] {logging_mixin.py:115} INFO - [2024-04-02 19:54:44,419] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-04-02 19:54:44,426] {logging_mixin.py:115} INFO - [2024-04-02 19:54:44,426] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-04-02T00:00:00+00:00, run_after=2024-04-03T00:00:00+00:00
+[2024-04-02 19:54:44,431] {processor.py:161} INFO - Processing /Users/miltonvolpato/Git/Alura_Airflow_Oficial/airflow_pipeline/dags/twitter_dag.py took 0.079 seconds
